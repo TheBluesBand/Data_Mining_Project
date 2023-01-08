@@ -8,7 +8,8 @@ This project demonstrates some basic python knowledge involving some data mining
 3. panda
 4. matplotlib
 5. seaborn
-6. ploty
+6. ploty  
+
 It also serves to demonstrate my understanding of data mining and how I can create models and optimise these models. It also shows my understanding of the world of data mining and how its applicable in the real world.  
 
 ## Loading the file  
