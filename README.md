@@ -15,7 +15,8 @@ It also serves to demonstrate my understanding of data mining and how I can crea
 ## Loading the file  
 You can load the file through a local Anaconda installation or use Google Colab (which is how we choose to run our project file so we know for sure this works). As long as you make sure each previous cell has been run than the code should run as we intend it to with correct outputs. A link to our project report will be listed below aswell as a copy of the report in this Github repository.  
 
-Link: https://docs.google.com/document/d/1nkzyYKNtDn6zb-cLmsUQ80kb3ivmjeHgQliRyTFY11A/edit?usp=sharing
+Link to report: https://docs.google.com/document/d/1nkzyYKNtDn6zb-cLmsUQ80kb3ivmjeHgQliRyTFY11A/edit?usp=sharing
+Link to google colab: https://colab.research.google.com/drive/1LE2OJl4_WrR_5fJ6-HAMHTi6sgBR601m?usp=sharing
 
 ### Questions
 Feel free to direct any questions to my email the.mccoy@outlook.com for clarification on either the code or the report.
